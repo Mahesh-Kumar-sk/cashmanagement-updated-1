@@ -1,0 +1,20 @@
+What this page does:
+Staff selection with saved names & add new ones.
+
+Enter datetime.
+
+Enter cash denominations with quantities, auto-calculated totals.
+
+Float, payouts, lottery payouts inputs update final totals live.
+
+Difference & status show with red/green and icons.
+
+Sticky note autosaves to localStorage.
+
+Export report to CSV.
+
+Share summary via WhatsApp, ignoring zero quantities.
+
+Scan cash sheet image using Tesseract.js OCR and fill quantities if recognized.
+
+Stylish, clean UI with consistent spacing and subtle shadows.
